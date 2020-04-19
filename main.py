@@ -115,7 +115,7 @@ class ID_Pool():
 
 Balls = []
 id_pool = ID_Pool()
-FPS = 30
+FPS = 60
 DeadTime = 1e9
 CountNum = 0
 
@@ -310,4 +310,3 @@ cmd.place(x=505 + 10, y=5)
 #tst.place(x=505 + 10, y=55)
 
 root.mainloop()
-
